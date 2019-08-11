@@ -1,3 +1,3 @@
 # Freecell
 
-Automated playing of Freecell
+Automatically play Freecell.
